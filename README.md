@@ -34,16 +34,16 @@ Combinational-Logic-Circuits-Verilog/
 ## Sample Simulation Waveforms
 
 ### Half Adder Waveform
-![Half Adder Waveform](waveforms/half_adder_wave.jpeg)
+![Half Adder Waveform](waveforms/half_adder_wave.jpeg.jpeg)
 
 ### Full Adder Waveform
-![Full Adder Waveform](waveforms/full_adder_wave.jpeg)
+![Full Adder Waveform](waveforms/full_adder_wave.jpeg.jpeg)
 
 ### 4-to-1 Multiplexer Waveform
-![4-to-1 MUX Waveform](waveforms/mux_4to1_wave.jpeg)
+![4-to-1 MUX Waveform](waveforms/mux_4to1_wave.jpeg.jpeg)
 
 ### 1-Bit Comparator Waveform
-![1-Bit Comparator Waveform](waveforms/comparator_1bit_wave.jpeg)
+![1-Bit Comparator Waveform](waveforms/comparator_1bit_wave.jpeg.jpeg)
 
 
 
